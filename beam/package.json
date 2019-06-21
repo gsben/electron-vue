@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "electron-updater": "^3.1.2",
+    "electron-updater": "^4.0.0",
     "express": "^4.17.1",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
